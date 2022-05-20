@@ -1,65 +1,218 @@
 [
   {
     "posterId": 1,
-		"authors": ["Alex Gut, Yosathorn Pengma"],
-		"title": "Hand Tracking System",
-		"abstract": "Handy Handy",
-		"pdfUrl": "https://drive.google.com/file/d/1QQGsS6eekk_X6_jGHRBAvHTpWhWFKow8/preview",
-		"videoUrl": "https://drive.google.com/file/d/1QUg7T5Uaee-50pjCEoUrhVciw1jbMSes/view?usp=sharing",
-		"course": "csc491"
+    "authors": ["Bunason Sutjaritrungsri"],
+    "title": "Fake News Prediction",
+    "abstract": "Poster #1",
+    "pdfUrl": "https://drive.google.com/file/d/13R6GCdYTleC3xDXbNKr_bXhscqsIYrGq/preview",
+    "videoUrl": "https://drive.google.com/file/d/1uYzMlkI-UHBSNvIVBi84klZVf7jsCrlZ/view?usp=sharing",
+    "course": "csc532"
   },
   {
     "posterId": 2,
-		"authors": ["Thanaphong, Thammajade, Bunchana"],
-		"title": "Face Detection",
-		"abstract": "Cat Capture",
-		"pdfUrl": "https://drive.google.com/file/d/16QnuCUAH9z5_ykdvSyIdJ7dpG74z46_H/preview",
-		"videoUrl": "https://www.youtube.com/watch?v=K3_VOuyFh-I",
-		"course": "csc491"
+    "authors": ["Chalanthorn Sirimongkholphawong"],
+    "title": "Vehicle License Plate Detector",
+    "abstract": "Poster #2",
+    "pdfUrl": "https://drive.google.com/file/d/14awUp507OF9wT5aCw6_bdAiX6iE--nYf/preview",
+    "videoUrl": "https://drive.google.com/file/d/100nNnVwnajt1LfKEf64O7-OLX8ctofIA/view?usp=sharing",
+    "course": "csc532"
   },
   {
     "posterId": 3,
-		"authors": ["Pakhanut"],
-		"title": "Tabular Playground Series - Dec 2021",
-		"abstract": "Tabular Playground - Cover_Type",
-		"pdfUrl": "https://drive.google.com/file/d/1MPbeGFrPnJRlSfs7QNiRdIg4gFSy11jR/preview",
-		"videoUrl": "https://drive.google.com/file/d/1C-RD7ZMYgcHba4xbvmUaV5tQphZT6IBh/view?usp=sharing",
-		"course": "csc491"
+    "authors": ["Chotika Phawikaweerathorn"],
+    "title": "Flower Classification",
+    "abstract": "Poster #3",
+    "pdfUrl": "https://drive.google.com/file/d/1jN9n8bC9J05h-jmhTue0o2MGhqYPsPjv/preview",
+    "videoUrl": "https://drive.google.com/file/d/1e9MbFRGrOqPkXfrmRTESEqw8VtXSLjLt/view?usp=sharing",
+    "course": "csc532"
   },
   {
     "posterId": 4,
-		"authors": ["Pakpisit Pakhakorntanatorn, Preeyawarang Pongpichatorn, Tianwit Moungnoycharoen"],
-		"title": "Cuteness Pet Score Model",
-		"abstract": "Poster #4",
-		"pdfUrl": "https://drive.google.com/file/d/1MFFdGBvIXjgO8r_snvg6_rIzBPXL0Bwi/preview",
-		"videoUrl": "https://youtu.be/ybpqktIrLvY",
-		"course": "csc491"
+    "authors": ["Kaewket Saelee"],
+    "title": "English Handwriting Recognition",
+    "abstract": "Poster #4",
+    "pdfUrl": "https://drive.google.com/file/d/1ryVZyxNJaFyMuGbOu7bXbgVFq5zKUiWj/preview",
+    "videoUrl": "https://drive.google.com/file/d/1e3YdXVNTlxGHX-eXeg5iP_z0mifRqKCG/view?usp=sharing",
+    "course": "csc532"
   },
   {
     "posterId": 5,
-		"authors": ["Patthamaporn Samkor-ngam, Watsaphol Decharat"],
-		"title": "E-commerce Sales Forecasting",
-		"abstract": "Poster #5",
-		"pdfUrl": "https://drive.google.com/file/d/1ncTG2Z42RtrQAt_9U3YyqNXQxBgDnPm_/preview",
-		"videoUrl": "https://drive.google.com/file/d/1iKpWgt5jodhbubtyu3uFWP5aG9wgFsY8/view?usp=sharing",
-		"course": "csc491"
+    "authors": ["Kittinan Prasirtsree"],
+    "title": "Dog Breed Identification",
+    "abstract": "Poster #5",
+    "pdfUrl": "https://drive.google.com/file/d/1u3lOxD7HIu9S_JwzSCPtqTZlkHLCLf1O/preview",
+    "videoUrl": "https://drive.google.com/file/d/13U7o1KBTgJA8Ein_mZNzbz-TkU82snor/view?usp=sharing",
+    "course": "csc532"
   },
   {
     "posterId": 6,
-		"authors": ["Settat, Waranyu, Suphakit"],
-		"title": "AI Obstacle Course",
-		"abstract": "Poster #6",
-		"pdfUrl": "https://drive.google.com/file/d/1L86FtdQBTwx6AgtROYFc-0rRz0I-PtgY/preview",
-		"videoUrl": "https://drive.google.com/file/d/1pAwZYdsmAUUD4I9DpH_u3FT03Im5uhLO/preview",
-		"course": "csc491"
+    "authors": ["Kittiyaporn Takrudthieng"],
+    "title": "Identify the category of foliar diseases in apple trees",
+    "abstract": "Poster #6",
+    "pdfUrl": "https://drive.google.com/file/d/1qc6DSxV1rkIed_RZZBvXHKDvbxbsXZDi/preview",
+    "videoUrl": "https://vimeo.com/711861116",
+    "course": "csc532"
   },
   {
     "posterId": 7,
-		"authors": ["Natthida Thammasorn, Vorapol Charoenkitmongkol"],
-		"title": "Ubiquant Market Prediction",
-		"abstract": "Wanorn Data Scientist",
-		"pdfUrl": "https://drive.google.com/file/d/1fT3T64OmDFmAhdc12qtPfnIfViwfbihF/preview",
-		"videoUrl": "https://www.youtube.com/watch?v=948GWgBDNGg",
-		"course": "csc491"
+    "authors": ["Kodchapong Dechboonyapichart"],
+    "title": "Music category classification for MusAI system",
+    "abstract": "Poster #7",
+    "pdfUrl": "https://drive.google.com/file/d/10CrgKFRgH44mCWp8FyEO6I-fLMYC7zsU/preview",
+    "videoUrl": "https://drive.google.com/file/d/1xJXC0KNAxGUErP7Eiuep3ZKDzkh3OUMI/view?usp=sharing",
+    "course": "csc532"
+  },
+  {
+    "posterId": 8,
+    "authors": ["Kongphob Wongwaigitwatana"],
+    "title": "Driver Drownsiness Alert Detection",
+    "abstract": "Poster #8",
+    "pdfUrl": "https://drive.google.com/file/d/1Be92dAzW19RYnMBE_10tJWUqB0XNB_iI/preview",
+    "videoUrl": "https://www.youtube.com/watch?v=hb29MCjZAZU",
+    "course": "csc532"
+  },
+  {
+    "posterId": 9,
+    "authors": ["Krishadawut Olde Monnikhof"],
+    "title": "Use recipe ingredients to categorize the cuisine",
+    "abstract": "Poster #9",
+    "pdfUrl": "https://drive.google.com/file/d/1xq0XLcJ6gc4R46kY7n8PT85kQKyxnegv/preview",
+    "videoUrl": "https://www.youtube.com/watch?v=XbUy3l3ABcs",
+    "course": "csc532"
+  },
+  {
+    "posterId": 10,
+    "authors": ["Kulthida Mangnimit"],
+    "title": "Dog Breed Identification",
+    "abstract": "Poster #10",
+    "pdfUrl": "https://drive.google.com/file/d/1hpOt8ZZa2OAh6i4D6SjHvP8YtIljMiko/preview",
+    "videoUrl": "https://drive.google.com/file/d/1imqt_jPdmdhyAn3VlXUSrj5GdBEPEAyd/view?usp=sharing",
+    "course": "csc532"
+  },
+  {
+    "posterId": 11,
+    "authors": ["Nataphon Pungsesai"],
+    "title": "Music Genre Classification",
+    "abstract": "Poster #11",
+    "pdfUrl": "https://drive.google.com/file/d/1XI6w3TK768Y0WoeCzdy8ky_B1KBAyqys/preview",
+    "videoUrl": "https://drive.google.com/file/d/1ZD1YyWXyfOefieOrMRnezc9bGmFeuTGc/view?usp=sharing",
+    "course": "csc532"
+  },
+  {
+    "posterId": 12,
+    "authors": ["Nutdanai Kitphermjaroen"],
+    "title": "Convolutional Neural Network Model for Video Scene Classification",
+    "abstract": "Poster #12",
+    "pdfUrl": "https://drive.google.com/file/d/1LxA4_sClhAW-_KwFEygzmwmd9LLuZ0Ur/preview",
+    "videoUrl": "https://mailkmuttacth-my.sharepoint.com/:v:/g/personal/nutdanai_282_mail_kmutt_ac_th/ERqhrPfHKSVKuoVRuNkcHXYBY0uv-Z-Mg836mnjBWAeh7w?e=4GvgeN",
+    "course": "csc532"
+  },
+  {
+    "posterId": 13,
+    "authors": ["Nuttavadee Autsavapanakit"],
+    "title": "Traffic Sign Recognition",
+    "abstract": "Poster #13",
+    "pdfUrl": "https://drive.google.com/file/d/1hl1LzvZbaDCVuWlvk4Ht1IcPLINFq6CV/preview",
+    "videoUrl": "https://drive.google.com/drive/folders/1wTMLW19dbsUOMOukcII1Q-g6UYB-f2fv/view?usp=sharing",
+    "course": "csc532"
+  },
+  {
+    "posterId": 14,
+    "authors": ["Pakkapol Chuenvirutsakul"],
+    "title": "Analysis what make a wine good",
+    "abstract": "Poster #14",
+    "pdfUrl": "https://drive.google.com/file/d/1qxGwjJrt1DrEG3Xa6u_cHU4DZL2xLXTM/preview",
+    "videoUrl": "https://drive.google.com/file/d/1YykeT1lbSHxNssZ9CTJPXeGF_YQ83E3r/view?usp=sharing",
+    "course": "csc532"
+  },
+  {
+    "posterId": 15,
+    "authors": ["Punnapat Khotchasenee"],
+    "title": "Market Basket Analysis",
+    "abstract": "Poster #15",
+    "pdfUrl": "https://drive.google.com/file/d/1FvsPrwzhkrRFTEtEUdU2grcLuTRsXpxX/preview",
+    "videoUrl": "https://drive.google.com/file/d/1rCvFnnVikoh3GQS6b7B_jUHthrMsZpbM/view?usp=sharing",
+    "course": "csc532"
+  },
+  {
+    "posterId": 16,
+    "authors": ["Supagon Hoonngam"],
+    "title": "Stock and Crypto prediction",
+    "abstract": "Poster #16",
+    "pdfUrl": "https://drive.google.com/file/d/1eEEtD_ZUdl3Kvw5yvhJfFGGqRE_RE1jZ/preview",
+    "videoUrl": "https://drive.google.com/file/d/1K4uD1KtSoVcASi7QQn2AC_MXkDdMWNLX/view?usp=sharing",
+    "course": "csc532"
+  },
+  {
+    "posterId": 17,
+    "authors": ["Supawit Supparuekpanich"],
+    "title": "Fruit and Vegetables classification",
+    "abstract": "Poster #17",
+    "pdfUrl": "https://drive.google.com/file/d/18J_iXNHfW8AdcFcoAEj7-Ev5ut-hJNyc/preview",
+    "videoUrl": "https://www.youtube.com/watch?v=RDilJTE44fs",
+    "course": "csc532"
+  },
+  {
+    "posterId": 18,
+		"authors": ["Tanakrid Fataweeporn"],
+		"title": "Predict Volcano Eruption by Seisemic Signals",
+		"abstract": "Poster #18",
+		"pdfUrl": "https://drive.google.com/file/d/1jLsWoUYurU5sXw3VxfzPLEyCBcRcReK_/preview",
+		"videoUrl": "https://drive.google.com/file/d/1aSy00EM7OwlaQI026VywL1txdjYNohfg/view?usp=sharing",
+		"course": "csc532"
+  },
+  {
+    "posterId": 19,
+		"authors": ["Thanakorn Aungkunchuchod"],
+		"title": "Face Emotion Recognition",
+		"abstract": "Poster #19",
+		"pdfUrl": "https://drive.google.com/file/d/13SzlsCXccvCBG_kmajNCWF-dVhz9RIPj/preview",
+		"videoUrl": "https://www.youtube.com/watch?v=sz9Yd-9sYFQ&ab_channel=Rabbit",
+		"course": "csc532"
+  },
+  {
+    "posterId": 20,
+		"authors": ["Thanyapoj Trikasemsak"],
+		"title": "Ethereum Price Prediction",
+		"abstract": "Poster #20",
+		"pdfUrl": "https://drive.google.com/file/d/1t6br7QOqcYp6iHSDYHAtpZ8TBF951_yi/preview",
+		"videoUrl": "https://www.youtube.com/watch?v=u99T0iOf7Mk",
+		"course": "csc532"
+  },
+  {
+    "posterId": 21,
+		"authors": ["Waron Janpinitrat"],
+		"title": "Machine Learning Model for Image Classification of 75 Species of Butterfly",
+		"abstract": "Poster #21",
+		"pdfUrl": "https://drive.google.com/file/d/1_uOLFJksi74ERKSi6zDrMpH_QQM0ICNj/preview",
+		"videoUrl": "https://drive.google.com/file/d/1Zs-IoVajp1hmQFDGxfo5EjbGofgQNhfG/view?usp=sharing",
+		"course": "csc532"
+  },
+  {
+    "posterId": 22,
+    "authors": ["Warot Janpinitrat"],
+    "title": "Twitter Cyberbullying Tweet Analysis",
+    "abstract": "Poster #22",
+    "pdfUrl": "https://drive.google.com/file/d/1udDof_qm3npqx_0mweccDeXTmnhGTmmK/preview",
+    "videoUrl": "https://drive.google.com/file/d/1Xx6WnRYcloP99nRdax8zcDKN3_hbjHgo/view?usp=sharing",
+    "course": "csc532"
+  },
+  {
+    "posterId": 23,
+    "authors": ["Wisarut Kitticharoenphonngam"],
+    "title": "Face Masks Detection",
+    "abstract": "Poster #23",
+    "pdfUrl": "https://drive.google.com/file/d/1unmkJj3EgNaRX3jEikSLaEHif0WHXI99/preview",
+    "videoUrl": "https://www.youtube.com/watch?v=jGFgFsHht1I",
+    "course": "csc532"
+  },
+  {
+    "posterId": 24,
+    "authors": ["Wuthipong Wongsrithep"],
+    "title": "Meat classify machine learning",
+    "abstract": "Poster #24",
+    "pdfUrl": "https://drive.google.com/file/d/15tQMoU1f6UzUTzxKwvLcDe3G8AcxpRBU/preview",
+    "videoUrl": "https://www.youtube.com/watch?v=GwergRZHYw4",
+    "course": "csc532"
   }
 ]
